@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.web.servlet.config.annotation.ViewControllerRegistry'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
